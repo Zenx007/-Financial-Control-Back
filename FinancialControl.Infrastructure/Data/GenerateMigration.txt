@@ -1,0 +1,1 @@
+Add-Migration Init -Project FinancialControl.Infrastructure -OutputDir Data/Migrations
